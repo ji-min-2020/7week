@@ -1,0 +1,22 @@
+
+."1.jpg":hover{
+	<img src="2.jpg" style="width: 2509px; height: 2481px;" >
+
+}
+
+
+."3.png" {
+	width:100px;
+	height:100px;
+	background-color: black;
+
+	transition-property: background-color;
+	transition-duration: 2s
+	left: 25%;
+	top: 25%;
+
+	}
+
+."3.png";hover {
+"	background-color: white;
+}
